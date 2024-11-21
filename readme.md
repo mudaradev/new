@@ -1,2 +1,0 @@
-blnj jnj
-go check
